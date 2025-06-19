@@ -1,0 +1,20 @@
+{
+  "name": "les-petits-plats",
+  "version": "1.0.0",
+  "description": "Projet 7 de la formation Développeur d'applications Javascript/React d'OpenClassrooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffreybunel/les-petits-plats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffreybunel/les-petits-plats/issues"
+  },
+  "homepage": "https://github.com/geoffreybunel/les-petits-plats#readme"
+}
